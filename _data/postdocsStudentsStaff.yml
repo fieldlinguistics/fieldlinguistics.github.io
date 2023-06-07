@@ -1,0 +1,23 @@
+- name: jane doe, MD
+  photo: jane.jpeg
+  info: Neurocritical care fellow
+  email: janedoe@abc.com
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
+
+- name: Marta Priscila Bento Fernandes, PhD
+  photo: marta.jpeg
+  info: Postdoctoral research fellow
+  email: mbentofernandes@mgh.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
+
+- name: Yalda Amidi, PhD
+  photo: yalda.png
+  info: Postdoctoral fellow
+  email: yamidi@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center

@@ -1,0 +1,120 @@
+- name: <a href="https://linguistics.fas.harvard.edu/people/daria-bikina"> Daria Bikina </a>  
+  photo: daria.jpg      
+  info: Graduate student    
+  email: dbikina@g.harvard.edu
+
+
+- name: Anabelle Caso  
+  photo:  anabelle.jpg      
+  info: Graduate student  
+  email: acaso@g.harvard.edu 
+ 
+
+- name: Jian Cui  
+  photo: jian.jpg       
+  info: Graduate student      
+  email: jiancui@g.harvard.edu
+  number_educ: 1
+  education1: Austronesian(Javanese) 
+
+
+- name: Jae Heon (James) Lee   
+  photo: james.jpg       
+  info: Graduate student      
+  email: jaeheonlee@g.harvard.edu
+  number_educ: 1
+  education1: Austronesian(Javanese), Kartvelian (Georgian), Korean 
+ 
+
+- name: Richard Luo   
+  photo: richard.jpg       
+  info: Undergraduate student      
+  email: richardluo@college.harvard.edu
+  number_educ: 1
+  education1: Kartvelian (Georgian) 
+ 
+
+- name: Valerio Pepe   
+  photo: valerio.jpg       
+  info: Undergraduate student      
+  email: valeriopepe@college.harvard.edu
+  number_educ: 1
+  education1: Kartvelian (Georgian), Algonquian, Italo-Western  
+ 
+
+- name: <a href="https://jackisaacrabinovitch.github.io/"> Jack Rabinovitch   
+  photo: jack.jpg       
+  info: Graduate student      
+  email: jrabinovitch@g.harvard.edu
+  number_educ: 1
+  education1: Uyghur, Manchu, Sibe 
+ 
+
+- name: Yağmur Sağ  
+  photo: wolf.jpg       
+  info: College Fellow      
+  email: yagmur_sag-parvardeh@fas.harvard.edu
+  number_educ: 1
+  education1: Turkish, Kartvelian (Laz) 
+
+
+- name: Tamisha L. Tan  
+  photo: tamisha.jpg       
+  info: Graduate student      
+  email: tamishaltan@g.harvard.edu
+ 
+
+- name: Natasha Thalluri   
+  photo: natasha.jpg       
+  info: Graduate student      
+  email: natasha_thalluri@g.harvard.edu
+  number_educ: 1
+  education1: Kartvelian (Georgian), Indo-Aryan 
+ 
+- name: <a href= "https://sites.google.com/view/melodywang/home">  Melody Wang  
+  photo: wolf.jpg       
+  info: Graduate student      
+  email: yuxuan_wang@fas.harvard.edu
+  number_educ: 1
+  education1: Austronesian(Javanese) 
+
+- name: Yi-Chi (Yvette) Wu   
+  photo: wolf.jpg       
+  info: Graduate student      
+  email: yichiwu@g.harvard.edu
+  number_educ: 1
+  education1: Austronesian(Formosan) 
+ 
+#- name: FirstName LastName   
+#  photo: # aditya.jpeg       
+#  info: Graduate student      
+#  email: #agupta41@mgh.harvard.edu
+ # number_educ: 4
+ # education1: Harvard Medical School 
+ # education2: Massachusetts General Hospital
+ # education3: Beth Israel Deaconess Medical Center 
+ # education4: McCance Center for Brain Health
+
+#- name: FirstName LastName   
+#  photo: # aditya.jpeg       
+#  info: Graduate student      
+#  email: #agupta41@mgh.harvard.edu
+ # number_educ: 4
+ # education1: Harvard Medical School 
+ # education2: Massachusetts General Hospital
+ # education3: Beth Israel Deaconess Medical Center 
+ # education4: McCance Center for Brain Health
+
+#- name: FirstName LastName   
+#  photo: # aditya.jpeg       
+#  info: Graduate student      
+#  email: #agupta41@mgh.harvard.edu
+ # number_educ: 4
+ # education1: Harvard Medical School 
+ # education2: Massachusetts General Hospital
+ # education3: Beth Israel Deaconess Medical Center 
+ # education4: McCance Center for Brain Health
+
+
+
+
