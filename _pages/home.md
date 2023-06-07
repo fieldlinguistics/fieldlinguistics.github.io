@@ -3,7 +3,7 @@ title: "WOLF - Home"
 layout: homelay
 excerpt: "Working on Language in the Field- The Linguistics Fieldwork Lab"
 sitemap: false
-permalink: /home/
+permalink: /
 ---
 
 <p style="font-family; Times New Roman ;font-size: 20px; color: black;">
