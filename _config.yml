@@ -41,7 +41,7 @@ kramdown:
 
 #modifying config file to run bibliography tag
 
-plugins:
+gems:
   - jekyll-scholar
   
 scholar:
