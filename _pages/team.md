@@ -1,7 +1,7 @@
 ---
-title: "CDAC - Team"
+title: "WOLF - Team"
 layout: gridlay
-excerpt: "CDAC: Team members"
+excerpt: "Team members"
 sitemap: false
 permalink: /team/
 ---
