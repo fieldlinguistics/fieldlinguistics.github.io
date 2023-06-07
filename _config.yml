@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: CDAC Website
-email: your-email@domain.com
+title: WOLF-Lab Website 
+email: fieldwork.harvard@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of CDAC.
 baseurl: ""
