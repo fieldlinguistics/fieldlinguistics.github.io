@@ -7,7 +7,7 @@ permalink: /team/
 ---
  
 
-Jump to [Faculty](#faculty), [Lab Members](#engineering).
+Jump to [Faculty](#faculty), [Lab Members](#lab-members).
 
 ## Principle Investigator
 
