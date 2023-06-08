@@ -3,7 +3,7 @@ title: "Get Involved"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /openings
+permalink: /getting-involved
 ---
 
 **Find us at:**
