@@ -6,4 +6,4 @@ This design of this website is modified from http://www.allanlab.org/. Plese fee
 
 Go to *aboutwebsite.md*  to learn how to copy and modify this page for your purpose.
 
-Copyright CDAC. Code released under the MIT License.
+ Code released under the MIT License.
