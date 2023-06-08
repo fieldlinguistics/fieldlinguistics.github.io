@@ -116,12 +116,7 @@ Some projects, past and ongoing, by members of the lab:
 
 [Back to Top](#  )
 
-<<<<<<< HEAD
 ## Language Documentation,and Revitalization
-=======
-### Itelmen Project
-[Itelmen Audio-Video Dictionary](https://itelmen.fas.harvard.edu/iavd/en/)
->>>>>>> 7a0743e19f11412cc105cada611b645712429584
 
 Below are projects that contribute to documentation, revitalization and creation of pedagogical and other useful materials for understudied languages.
 
