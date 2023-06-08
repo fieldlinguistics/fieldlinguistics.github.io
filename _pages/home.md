@@ -12,10 +12,10 @@ We are a group of faculty members and graduate student who conduct linguistic fi
 </p>
 
 
-<!-- The Clinical Data Animation Center (CDAC) brings medical data to life. Our research aims to help people preserve and enhance brain health. We are affiliated with [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), the [McCance Center for Brain Health](https://www.massgeneral.org/neurology/mccance-center) at [Massachusetts General Hospital](https://www.massgeneral.org/), [MIT](https://www.mit.edu/) and the [Broad Institute](https://www.broadinstitute.org/). Our research areas include sleep, dementia, epilepsy, delirium/encephalopathy, anoxic brain injury, status epilepticus, the ictal-interictal-injury continuum, subarachnoid hemorrhage, and the neurophysiology of critical illness. -->
+
 
 <div style ="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wolflab.jpeg" alt="Slide 3" style="width:650px;height: 500px !important" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wolflab.jpeg" alt="lab photo" style="width:650px;height: 500px !important" />
 </div>
 
 <!-- Begin code for image carousel 
