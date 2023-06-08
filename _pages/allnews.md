@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "CDAC Lab at Harvard / BIDMC."
+excerpt: "WOLF Lab at Harvard"
 sitemap: false
 permalink: /allnews.html
 ---
