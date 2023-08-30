@@ -9,7 +9,7 @@ permalink: /team/
 
 Jump to [Faculty](#faculty), [Lab Members](#lab-members).
 
-## Principle Investigator
+## Principal Investigator
 
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
