@@ -126,7 +126,7 @@ Some projects, past and ongoing, by members of the lab:
 * Ongoing: Applying Adaptations in Pedagogical Materials for Heritage Language Teaching to Language Reclamation (Jack Rabinovitch, joint work with Baoqing Qian).
 * Ongoing: Itelmen Project: documentation and revitalization (Jonathan Bobaljik) 
 https://itelmen.fas.harvard.edu/iavd/itl/ 
-* Ongoing: Passamaquoddy Group (collaborative project with the MIT group)
+* Past: Passamaquoddy Group (Tanya Bondarenko: collaborative project with the MIT Linguistics)
 * Past: Barguzin dialect of Buryat (Tanya Bondarenko: documentation work with Lomonosov Moscow State University group in 2014—2018).
 
 [Back to Top](#  )
