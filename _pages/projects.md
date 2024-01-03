@@ -122,6 +122,7 @@ Below are projects that contribute to documentation, revitalization and creation
 
 Some projects, past and ongoing, by members of the lab:
 
+* Ongoing : Online documentation material for Sibe (Jacob Kodner)
 * Ongoing: A Client-Side Web Application for Advanced Searching of Linguistic Corpora (Jack Rabinovitch).
 * Ongoing: Applying Adaptations in Pedagogical Materials for Heritage Language Teaching to Language Reclamation (Jack Rabinovitch, joint work with Baoqing Qian).
 * Ongoing: Itelmen Project: documentation and revitalization (Jonathan Bobaljik) 
