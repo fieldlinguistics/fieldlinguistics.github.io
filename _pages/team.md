@@ -178,7 +178,7 @@ Jump to [Faculty](#faculty), [Lab Members](#lab-members).
 ## Alumni
 
 {% assign number_printed = 0 %}
-{% for member in site.data.faculty %}
+{% for member in site.data.alumni %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
