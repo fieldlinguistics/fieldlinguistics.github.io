@@ -32,12 +32,12 @@
   education1: Austronesian(Javanese), Kartvelian (Georgian), Jeju 
  
 
-- name: Richard Luo   
-  photo: richard.JPG       
-  info: Undergraduate student      
-  email: richardluo@college.harvard.edu
-  number_educ: 1
-  education1: Kartvelian (Georgian) 
+#- name: Richard Luo   
+ # photo: richard.JPG       
+  #info: Undergraduate student      
+  #email: richardluo@college.harvard.edu
+  #number_educ: 1
+  #education1: Kartvelian (Georgian) 
  
 
 - name: Valerio Pepe   
@@ -64,10 +64,10 @@
   education1: Turkish, Kartvelian (Laz) 
 
 
-- name: Tamisha L. Tan  
-  photo: tamisha.jpg       
-  info: Graduate student      
-  email: tamishaltan@g.harvard.edu
+#- name: Tamisha L. Tan  
+ # photo: tamisha.jpg       
+  #info: Graduate student      
+  #email: tamishaltan@g.harvard.edu
  
 
 - name: Natasha Thalluri   
@@ -78,7 +78,7 @@
   education1: Kartvelian (Georgian), Indo-Aryan 
  
 - name: <a href= "https://sites.google.com/view/melodywang/home">  Melody Wang  
-  photo: wolf.jpg       
+  photo: melody.jpg       
   info: Graduate student      
   email: yuxuan_wang@fas.harvard.edu
   number_educ: 1
