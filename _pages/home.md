@@ -12,13 +12,125 @@ We are a group of faculty members and graduate students who conduct linguistic f
 </p>
 
 
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+<!--     <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active" style="height: 50px"></li>
+        <li data-target="#carousel" data-slide-to="1" style="height: 50px"></li>
+        <li data-target="#carousel" data-slide-to="2" style="height: 50px"></li>
+        <p>test test test</p>
+    </ol> -->
+
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wolflab.jpeg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/word-cloud-languages.png" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div> 
 
 
+
+
+
+<!-- 
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wolflab.jpeg" alt="Slide 3" style="width:650px;height: 500px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/word-cloud-languages.png" alt="Slide 3" style="height: 300px !important" />
+    </div>
+</div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div> 
+
+ <!--   
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/starfish.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDzoo.png_resized.jpg" alt="Slide 1" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.png" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSamples_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDfeatures.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CPDspreading.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_model_180K.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_model_180K_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_spikeBurden_180K.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDwithVotes.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IIICqualitative.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_spikeBurden_180K_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPspreading.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProtoEEG_layout_newscreenshot.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+</div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>       End code for image carousel -->
+
+
+
+
+<!-- Begin code for image carousel 
+
+ Code for solo picture
+ 
 <div style ="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wolflab.jpeg" alt="lab photo" style="width:650px;height: 500px !important" />
 </div>
 
-<!-- Begin code for image carousel 
+-----------
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
