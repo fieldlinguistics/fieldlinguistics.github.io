@@ -131,6 +131,7 @@ https://itelmen.fas.harvard.edu/iavd/itl/
 * Past: Passamaquoddy Group (Tanya Bondarenko: collaborative project with the MIT Linguistics)
 * Past: Barguzin dialect of Buryat (Tanya Bondarenko: documentation work with Lomonosov Moscow State University group in 2014—2018).
 * Past: Balkar (Tanya Bondarenko: documentation work with Lomonosov Moscow State University group in 2013, 2019)
+* Past: Documentation of [Judeo-Iranian languages](https://forward.com/culture/554932/jewish-languages-iran-neo-aramaic-endangered-preservation-wikimedia/) (Jacob Kodner: Grant from the Wikimedia Community Fund in 2022-2023)
 
 [Back to Top](#  )
 
