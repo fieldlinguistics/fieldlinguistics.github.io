@@ -40,6 +40,7 @@ Some projects, past and ongoing, by members of the lab:
 * Past: Voice alternations in Kazym Khanty participial relative clauses (Dasha Bikina)
 * Past: Repetitives in constructions with dative arguments cross-linguistically: distinguishing datives from PPs (Tanya Bondarenko)
 * Past: Voice Restructuring in Buryat (Tanya Bondarenko)
+* Past: Syntactic analysis of converbs in Manchu and Mongolian (Jacob Kodner)
 
 [Back to Top](#  )
 
