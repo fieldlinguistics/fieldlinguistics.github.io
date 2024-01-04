@@ -12,7 +12,7 @@ We are a group of faculty members and graduate students who conduct linguistic f
 </p>
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" margin: 0 auto; display: flex; justify-content: center >
     <!-- Menu -->
 <!--     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active" style="height: 50px"></li>
