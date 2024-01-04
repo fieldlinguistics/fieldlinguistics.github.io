@@ -11,8 +11,13 @@ Welcome the fieldwork lab at the Harvard Department of Linguistics!
 We are a group of faculty members and graduate students who conduct linguistic fieldwork on understudied and underdocumented languages across the world. Our work involves applying tools of formal linguistics to different languages, as well as typological work. Some of our current projects work on questions concerning clausal complementation, argument and event strucuture, word order, and many others. Our members have been engaged in active research on Austronesian, Algonquian, Kartvelian, and Turkic languages.
 </p>
 
+<div markdown="0" id="carousel-container" style="display: flex; align-items: center;">
+  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="margin: 0 auto; width: 600px;">
+    <div class="carousel-inner" markdown="0">
+      </div>
+  </div>
+</div>
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 600px;" >
     <!-- Menu -->
 <!--     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active" style="height: 50px"></li>
