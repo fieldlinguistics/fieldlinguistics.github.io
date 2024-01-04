@@ -36,7 +36,7 @@ We are a group of faculty members and graduate students who conduct linguistic f
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/harvardfieldwork.jpg" alt="Slide 1" style="height: 300px !important" />
     </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev" style="position: absolute; top: 50%; transform: translateY(-50%); left: 10px;">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
