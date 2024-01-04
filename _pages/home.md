@@ -12,7 +12,7 @@ We are a group of faculty members and graduate students who conduct linguistic f
 </p>
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" margin: 0 auto; display: flex; justify-content: center >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
 <!--     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active" style="height: 50px"></li>
@@ -22,7 +22,7 @@ We are a group of faculty members and graduate students who conduct linguistic f
     </ol> -->
 
 <div class="carousel-inner" markdown="0">
-    <div class="item active">
+    <div class="item active"  style ="text-align: center;">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wolflab.jpeg" alt="Slide 3" style="height: 300px !important" />
     </div>
     <div class="item">
