@@ -12,7 +12,7 @@ We are a group of faculty members and graduate students who conduct linguistic f
 </p>
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 600px;" >
     <!-- Menu -->
 <!--     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active" style="height: 50px"></li>
@@ -21,11 +21,11 @@ We are a group of faculty members and graduate students who conduct linguistic f
         <p>test test test</p>
     </ol> -->
 
-<div class="carousel-inner" markdown="0"  style ="text-align: center;" >
-    <div class="item active" style ="text-align: right;" >
+<div class="carousel-inner" markdown="0"  >
+    <div class="item active"  >
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wolflab.jpeg" alt="Slide 3" style="height: 300px !important" />
     </div>
-    <div class="item" style ="text-align: center;" >
+    <div class="item"  >
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/word-cloud-languages.png" alt="Slide 3" style="height: 300px !important" />
     </div>
     <div class="item">
