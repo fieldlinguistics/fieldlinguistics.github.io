@@ -23,7 +23,7 @@ We are a group of faculty members and graduate students who conduct linguistic f
     </ol> -->
 
 <div class="carousel-inner" markdown="0"  >
-    <div class="item active" style="text-align: right;" >
+    <div class="item active" style="text-align: center;" >
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wolflab.jpeg" alt="Slide 3" style="height: 300px !important" />
     </div>
     <div class="item"  >
