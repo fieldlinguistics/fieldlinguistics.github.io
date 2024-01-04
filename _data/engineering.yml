@@ -18,7 +18,7 @@
   education1: Austronesian(Javanese) 
 
 - name: Jacob Fernandes   
-  photo: wolf.JPG       
+  photo: wolf.jpg       
   info: Undergraduate student      
   email: jjfernandes@college.harvard.edu
   number_educ: 1
@@ -55,6 +55,13 @@
   email: jrabinovitch@g.harvard.edu
   number_educ: 1
   education1: Uyghur, Manchu, Sibe 
+  
+- name: Nofar Rimon  
+  photo: wolf.jpg       
+  info: Graduate student      
+  email: nofarrimon@g.harvard.edu
+  #number_educ: 1
+  #education1: Semitic
  
 
 - name: Yağmur Sağ  
@@ -65,10 +72,6 @@
   education1: Turkish, Kartvelian (Laz) 
 
 
-#- name: Tamisha L. Tan  
- # photo: tamisha.jpg       
-  #info: Graduate student      
-  #email: tamishaltan@g.harvard.edu
  
 
 - name: Natasha Thalluri   
