@@ -17,7 +17,14 @@
   number_educ: 1
   education1: Austronesian(Javanese) 
 
-- name: Jacob Kodner  
+- name: Jacob Fernandes   
+  photo: wolf.JPG       
+  info: Undergraduate student      
+  email: jjfernandes@college.harvard.edu
+  number_educ: 1
+  education1: Kartvelian (Georgian), Korean, Japanese 
+  
+- name: <a href=" http://www.kodner.org"> Jacob Kodner  </a>  
   photo: jacob.jpg       
   info: Graduate student      
   email: jkodner@g.harvard.edu
@@ -32,12 +39,6 @@
   education1: Austronesian(Javanese), Kartvelian (Georgian), Jeju 
  
 
-#- name: Richard Luo   
- # photo: richard.JPG       
-  #info: Undergraduate student      
-  #email: richardluo@college.harvard.edu
-  #number_educ: 1
-  #education1: Kartvelian (Georgian) 
  
 
 - name: Valerio Pepe   
