@@ -31,9 +31,6 @@ We are a group of faculty members and graduate students who conduct linguistic f
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tbilisi1.jpg" alt="Slide 3" style="height: 300px !important" />
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/harvardfieldwork.jpg" alt="Slide 1" style="height: 300px !important" />
-    </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
