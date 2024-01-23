@@ -112,7 +112,7 @@ Below are projects that use linguistic fieldwork to answer questions about langu
 
 Some projects, past and ongoing, by members of the lab:
 
-* Ongoing: Syntactic changes in Dakkhini Urdu (a contact language emerging from Urdu (Indo-Aryan) and Telugu (Dravidian)) as a result of Dravidian influence (Natasha Thalluri).
+* Ongoing: Morphosyntactic changes in Dakkhini Urdu as a result of Dravidian influence (Natasha Thalluri).
 * Ongoing: Phylogenetic subgrouping of the Pamir languages (Eastern Iranian) and reconstruction of Proto-Pamir using fieldwork data; languages include Shughni, Roshani, Yazghulami, Sariqoli, Wakhi, Ishkashimi, Munji, Khufi, and Yidgha (Anabelle Caso, joint work with Mark Hale and Kirill Fessenko). 
 
 [Back to Top](#  )
@@ -127,8 +127,7 @@ Some projects, past and ongoing, by members of the lab:
 * Ongoing : Online documentation materials for [Sibe](https://minibuleku.github.io) (Jacob Kodner)
 * Ongoing: A Client-Side Web Application for Advanced Searching of Linguistic Corpora (Jack Rabinovitch).
 * Ongoing: Applying Adaptations in Pedagogical Materials for Heritage Language Teaching to Language Reclamation (Jack Rabinovitch, joint work with Baoqing Qian).
-* Ongoing: Itelmen Project: documentation and revitalization (Jonathan Bobaljik) 
-https://itelmen.fas.harvard.edu/iavd/itl/ 
+* Ongoing: [Itelmen Project: documentation and revitalization](https://itelmen.fas.harvard.edu/iavd/itl/) (Jonathan Bobaljik)  
 * Past: Passamaquoddy Group (Tanya Bondarenko: collaborative project with the MIT Linguistics)
 * Past: Barguzin dialect of Buryat (Tanya Bondarenko: documentation work with Lomonosov Moscow State University group in 2014—2018).
 * Past: Balkar (Tanya Bondarenko: documentation work with Lomonosov Moscow State University group in 2013, 2019)
@@ -152,7 +151,7 @@ How do opacity effects arise, and how should they be analyzed in theories like O
 
 Some projects, past and ongoing, by members of the lab:
 
-* Ongoing: Could self-destructive feeding be a challenge to Richness of the Base (based on data from Javanese (Austronesian))? (Melody Wang)
+* Ongoing: Could self-destructive feeding be a challenge to Richness of the Base (based on data from Javanese (Austronesian) (Melody Wang)
 
 [Back to Top](#  )
 
