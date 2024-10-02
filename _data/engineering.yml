@@ -1,15 +1,20 @@
+- name: <a href=" http://www.kodner.org"> Jacob Kodner  </a>  
+  photo: jacob.jpg       
+  info: Lab manager, Graduate student      
+  email: jkodner@g.harvard.edu
+  number_educ: 1
+  education1: Altaic (Manchu, Mongolian, Korean), Formosan (Atayal), Alabama
+
 - name: <a href="https://linguistics.fas.harvard.edu/people/daria-bikina"> Daria Bikina </a>  
   photo: daria.jpg      
   info: Graduate student    
   email: dbikina@g.harvard.edu
-
 
 - name: Anabelle Caso  
   photo:  anabelle.jpg      
   info: Graduate student  
   email: acaso@g.harvard.edu 
  
-
 - name: Jian Cui  
   photo: jian.jpg       
   info: Graduate student      
@@ -17,19 +22,40 @@
   number_educ: 1
   education1: Austronesian(Javanese) 
 
-- name: Jacob Fernandes   
-  photo: wolf.jpg       
-  info: Undergraduate student      
-  email: jjfernandes@college.harvard.edu
-  number_educ: 1
-  education1: Kartvelian (Georgian), Korean, Japanese 
-  
-- name: <a href=" http://www.kodner.org"> Jacob Kodner  </a>  
-  photo: jacob.jpg       
+- name: Jane Loney 
+  photo: jane.jpg       
   info: Graduate student      
-  email: jkodner@g.harvard.edu
+  email: janewloney@gmail.com
   number_educ: 1
-  education1: Altaic (Manchu, Mongolian, Korean), Formosan (Atayal), Alabama
+  education1: Bantu (Zulu, Ndebele).
+
+# - name: Jacob Fernandes   
+#   photo: wolf.jpg       
+#   info: Undergraduate student      
+#   email: jjfernandes@college.harvard.edu
+#   number_educ: 1
+#   education1: Kartvelian (Georgian), Korean, Japanese 
+
+- name: Ava Silva
+  photo: ava.jpg       
+  info: Undergraduate student    
+  email: avasilva@college.harvard.edu
+  number_educ: 1
+  education1: Alabama
+
+- name: Jackson Herrera
+  photo: jackson.jpg       
+  info: Undergraduate student    
+  email: jherrera@college.harvard.edu
+  number_educ: 1
+  education1: Germanic (German, Icelandic, Swedish), Sámi, Alabama
+
+- name: Madeleine Riskin-Kutz
+  photo: madeleine.jpg       
+  info: Undergraduate student    
+  email: mjriskinkutz@college.harvard.edu
+  number_educ: 1
+  education1: Alabama, Iskonawa, Gaulish
 
 - name: Jae Heon (James) Lee   
   photo: james.jpg       
@@ -45,7 +71,6 @@
   number_educ: 1
   education1: Serbian 
  
-
 - name: Valerio Pepe   
   photo: valerio.jpg       
   info: Undergraduate student      
@@ -53,7 +78,6 @@
   number_educ: 1
   education1: Kartvelian (Georgian), Algonquian, Italo-Western  
  
-
 - name: <a href="https://jackisaacrabinovitch.github.io/"> Jack Rabinovitch   
   photo: jack.jpg       
   info: Graduate student      
@@ -69,12 +93,12 @@
   #education1: Semitic
  
 
-- name: Yağmur Sağ  
-  photo: wolf.jpg       
-  info: College Fellow      
-  email: yagmur_sag-parvardeh@fas.harvard.edu
-  number_educ: 1
-  education1: Turkish, Kartvelian (Laz) 
+# - name: Yağmur Sağ  
+#   photo: wolf.jpg       
+#   info: College Fellow      
+#   email: yagmur_sag-parvardeh@fas.harvard.edu
+#   number_educ: 1
+#   education1: Turkish, Kartvelian (Laz) 
 
 
  
