@@ -13,9 +13,10 @@ permalink: /getting-involved
 		  Cambridge, MA 02138 <br>
 
 
-**Write to us at:**
+**Contact us at:**
 
-fieldwork.harvard@gmail.com
+• General: fieldwork.harvard [at] gmail [dot] com
+• Lab Manager, Jacob Kodner: jkodner [at] g [dot] harvard [dot] edu
 
 
 <!--**We are currently open for postdoc and engineering applications related to our CAISR ("Complete AI Sleep Report") grant. The positions are mostly related to machine learning and signal processing problems in sleep medicine and neurology.**
