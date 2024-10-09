@@ -12,9 +12,13 @@ permalink: /languages/
 
 Here are some languages we are currently working on:
 
+**Alabama**
+
+Alabama is a Muskogean language spoken by the Alabama people on the Alabama-Coushatta Reservation, located in present-day Texas.
+
 **Azeri**
 
-Azeri is a a Turkic language from the Oghuz sub-branch spoken in the Republic of Azerbaijan, Iran, and parts of Russia and Georgia. It is the official language of the Republic of Azerbaijan and Dagestan.
+Azeri is a Turkic language from the Oghuz sub-branch spoken in the Republic of Azerbaijan, Iran, and parts of Russia and Georgia. It is the official language of the Republic of Azerbaijan and Dagestan.
 
 **Balkar**
 

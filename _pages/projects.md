@@ -123,11 +123,12 @@ Below are projects that contribute to documentation, revitalization and creation
 
 Some projects, past and ongoing, by members of the lab:
 
-* Ongoing : Language Shift and Morphosyntactic change in Seediq (Yvette Wu: Project Launch at NWAV 2023)
-* Ongoing : Online documentation materials for [Sibe](https://minibuleku.github.io) (Jacob Kodner)
+* Ongoing: Fieldwork and documentation of the Alabama language ([Alabama documentation group](https://www.thecrimson.com/article/2024/3/2/alabama-language-project/))
+* Ongoing: Language Shift and Morphosyntactic change in Seediq (Yvette Wu: Project Launch at NWAV 2023)
 * Ongoing: A Client-Side Web Application for Advanced Searching of Linguistic Corpora (Jack Rabinovitch).
 * Ongoing: Applying Adaptations in Pedagogical Materials for Heritage Language Teaching to Language Reclamation (Jack Rabinovitch, joint work with Baoqing Qian).
 * Ongoing: [Itelmen Project: documentation and revitalization](https://itelmen.fas.harvard.edu/iavd/itl/) (Jonathan Bobaljik)  
+* Past: Online documentation materials for [Sibe](https://minibuleku.github.io) (Jacob Kodner)
 * Past: Passamaquoddy Group (Tanya Bondarenko: collaborative project with the MIT Linguistics)
 * Past: Barguzin dialect of Buryat (Tanya Bondarenko: documentation work with Lomonosov Moscow State University group in 2014—2018).
 * Past: Balkar (Tanya Bondarenko: documentation work with Lomonosov Moscow State University group in 2013, 2019)
