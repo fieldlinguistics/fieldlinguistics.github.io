@@ -10,20 +10,21 @@ permalink: /projects/
 
 Below you can find the projects (both ongoing and completed) that the members of the lab have been undertaking, categorized by the general research area that they fall into. 
 
-1. [Argument Structure](#argument-structure)
-2. [Clausal Embedding](#clausal-embedding)
-3. [Complementation, Argument Structure and Event Structure (CASES)](#complementation-argument-structure-and-event-structure-cases)
-4. [Cross-clausal A-dependencies](#cross-clausal-a-dependencies)
-5. [Cross-clausal A-bar dependencies](#cross-clausal-a-bar-dependencies)
-6. [Honorifics](#honorifics)
-7. [Language Subgrouping and Change](#language-subgrouping-and-change)
-8. [Language Documentation & Revitalization](#language-documentationand-revitalization)
-9. [Nominal Phrases](#nominal-phrases)
-10. [Opacity Effects](#opacity-effects)
-11. [Relativization](#relativization)
-12. [Tense, Aspect and Mood](#tense-aspect-mood-tam)
-13. [Vowel Harmony](#vowel-harmony)
-14. [Word Order](#word-order)
+- [Ongoing Projects](#ongoing-projects)
+  - [Argument Structure](#argument-structure)
+  - [Clausal Embedding](#clausal-embedding)
+  - [Complementation, Argument Structure and Event Structure (CASES)](#complementation-argument-structure-and-event-structure-cases)
+  - [Cross-Clausal A-dependencies](#cross-clausal-a-dependencies)
+  - [Cross-Clausal A-bar dependencies](#cross-clausal-a-bar-dependencies)
+  - [Honorifics](#honorifics)
+  - [Language Subgrouping and Change](#language-subgrouping-and-change)
+  - [Language Documentation,and Revitalization](#language-documentationand-revitalization)
+  - [Nominal Phrases](#nominal-phrases)
+  - [Opacity Effects](#opacity-effects)
+  - [Relativization](#relativization)
+  - [Tense, Aspect, Mood (TAM)](#tense-aspect-mood-tam)
+  - [Vowel Harmony](#vowel-harmony)
+  - [Word Order](#word-order)
 
 
 
@@ -123,7 +124,7 @@ Below are projects that contribute to documentation, revitalization and creation
 
 Some projects, past and ongoing, by members of the lab:
 
-* Ongoing: Fieldwork and documentation of the Alabama language ([Alabama documentation group](https://www.thecrimson.com/article/2024/3/2/alabama-language-project/))
+<!-- * Ongoing: Fieldwork and documentation of the Alabama language ([Alabama documentation group](https://www.thecrimson.com/article/2024/3/2/alabama-language-project/)) -->
 * Ongoing: Language Shift and Morphosyntactic change in Seediq (Yvette Wu: Project Launch at NWAV 2023)
 * Ongoing: A Client-Side Web Application for Advanced Searching of Linguistic Corpora (Jack Rabinovitch).
 * Ongoing: Applying Adaptations in Pedagogical Materials for Heritage Language Teaching to Language Reclamation (Jack Rabinovitch, joint work with Baoqing Qian).
