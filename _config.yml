@@ -13,6 +13,12 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://fieldlinguistics.github.io"
 
+- name: Upload artifact
+  uses: actions/upload-artifact@v3
+  with:
+    name: my-artifact
+    path: path/to/artifact
+
 include:
   - .htaccess
   - _pages
