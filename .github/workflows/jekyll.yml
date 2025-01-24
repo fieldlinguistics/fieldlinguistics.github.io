@@ -27,24 +27,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  my_job:
-    runs-on: self-hosted # Or your specific runner
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Install Ruby
-        run: |
-          sudo apt-get update -y
-          sudo apt-get install -y build-essential zlib1g-dev
-          curl -sSL https://raw.githubusercontent.com/rbenv/ruby-build/master/install.sh | bash
-          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> $GITHUB_ENV
-          echo 'eval "$(rbenv init -)"' >> $GITHUB_ENV
-          rbenv install 3.2.2 # Replace with your desired Ruby version
-          rbenv global 3.2.2
-          touch /opt/hostedtoolcache/Ruby/3.2.2/x64.complete
-          
-jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
