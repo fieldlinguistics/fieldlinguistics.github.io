@@ -8,3 +8,4 @@ gem 'wdm', '>=0.1.0', platforms: [:mingw,:mswin]
 gem 'jekyll-scholar', group: :jekyll_plugins  #Adding jekyll-scholar gem to run the bibliography tag
 
 #hi
+gem "webrick", "~> 1.9"
